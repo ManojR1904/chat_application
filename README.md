@@ -15,6 +15,7 @@ Start the Server
      run: python chat_server.py
 - On client machines
      run: python chat_client.py
+  
 -enjoy chatting
 
 (You can run client and server on same machine and chat).
